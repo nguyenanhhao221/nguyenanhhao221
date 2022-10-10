@@ -25,4 +25,4 @@ I'm Hao Nguyen. Front-end developer based in Vietnam.
 
 ---
 
-<a href="https://app.daily.dev/HaoNguyen"><img src="https://api.daily.dev/devcards/1d664cecf73b4070a0b074be7d16a160.png?r=w8s" width="250" alt="Hao Nguyen's Dev Card"/></a>
+<a href="https://app.daily.dev/HaoNguyen"><img src="https://github.com/nguyenanhhao221/nguyenanhhao221/blob/main/devcard.svg" width="400" alt="Hao Nguyen's Dev Card"/></a>
