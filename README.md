@@ -13,13 +13,19 @@ I'm Hao Nguyen. Front-end developer based in Vietnam.
 
 ---
 
-[![Hao Github stats](https://github-readme-stats.vercel.app/api?username=nguyenanhhao221&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Hao Github stats](https://github-readme-stats.vercel.app/api?username=nguyenanhhao221&count_private=true&show_icons=true&theme=github_dark)](https://github-readme-stats.vercel.app/api?username=nguyenanhhao221&count_private=true&show_icons=true&theme=github_dark)
 
 ## Top Languages
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenanhhao221&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenanhhao221&layout=compact&theme=github_dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenanhhao221&layout=compact&theme=github_dark)
+
+## Wakatime Week Stats
+
+---
+
+[![nguyenanhhao221's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nguyenanhhao221&layout=compact)](https://github-readme-stats.vercel.app/api/wakatime?username=nguyenanhhao221)
 
 ## Daily Dev
 
