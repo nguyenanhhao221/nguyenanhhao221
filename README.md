@@ -2,7 +2,7 @@
 
 <!-- https://readme-typing-svg.demolab.com/demo -->
 <p align="center">
-<a href="https://github.com/DenverCoder1/readme-typing-svg" alt="Typing SVG"> <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=18&pause=1000&color=7CC0E2&center=true&vCenter=true&width=435&lines=%3Ch1%3EFront+End+Developer+%3Ch1%2F%3E;%3CCoffeeLover+%2F%3E;%3CBugDestroyer+%2F%3E"/></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg" alt="Typing SVG"> <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=20&pause=1000&color=7CC0E2&center=true&vCenter=true&width=435&lines=%3Ch1%3EFront+End+Developer+%3Ch1%2F%3E;%3CCoffeeLover+%2F%3E;%3CBugDestroyer+%2F%3E"/></a>
 </p>
 
 I'm 27 years old self taught Front-end developer based in Vietnam 🇻🇳.
@@ -14,7 +14,7 @@ I'm 27 years old self taught Front-end developer based in Vietnam 🇻🇳.
 ## 🧰 Languages and Tools
 
 <p align="center">
-
+<br />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -60,8 +60,8 @@ I'm 27 years old self taught Front-end developer based in Vietnam 🇻🇳.
 ## 📊 GitHub Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img alt="Hao Nguyen's GitHub Stats"src="https://github-readme-stats.vercel.app/api?username=nguyenanhhao221&count_private=true&bg_color=30,7cc0e2,ff9fe1&text_color=111827&title_color=252fff&show_icons=true&icon_color=0f172a&hide_border=true" alt="Hao Nguyen Git Hub Stats" height="192px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenanhhao221&layout=compact&bg_color=30,7cc0e2,ff9fe1&text_color=111827&title_color=252fff&hide_border=true" height="192px" />
+  <img alt="Hao Nguyen's GitHub Stats"src="https://github-readme-stats.vercel.app/api?username=nguyenanhhao221&count_private=true&theme=react&text_color=7cc0e2&title_color=7cc0e2&show_icons=true&icon_color=ff9fe1&hide_border=true" alt="Hao Nguyen Git Hub Stats" height="192px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenanhhao221&layout=compact&theme=react&text_color=7cc0e2&title_color=7cc0e2&hide_border=true" height="192px" />
 </a>
 <br />
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
