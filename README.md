@@ -1,8 +1,9 @@
 # Welcome to Hao Nguyen's Profile 👋
 
 <!-- https://readme-typing-svg.demolab.com/demo -->
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=18&pause=1000&color=7CC0E2&center=true&vCenter=true&width=435&lines=%3Ch1%3EFront+End+Developer+%3Ch1%2F%3E;%3CCoffeeLover+%2F%3E;%3CBugDestroyer+%2F%3E)](https://git.io/typing-svg)
+<p align="center">
+<a href="https://github.com/DenverCoder1/readme-typing-svg" alt="Typing SVG"> <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=18&pause=1000&color=7CC0E2&center=true&vCenter=true&width=435&lines=%3Ch1%3EFront+End+Developer+%3Ch1%2F%3E;%3CCoffeeLover+%2F%3E;%3CBugDestroyer+%2F%3E"/></a>
+</p>
 
 I'm 27 years old self taught Front-end developer based in Vietnam 🇻🇳.
 
@@ -54,10 +55,7 @@ I'm 27 years old self taught Front-end developer based in Vietnam 🇻🇳.
 
 ## 🔥 Streak stats
 
-<p align="center">
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=nguyenanhhao221&theme=react&hide_border=true&fire=FF8C3E&ring=FF9FE1&stroke=FF9FE1)](https://git.io/streak-stats)
-<p/>
 
 ## 📊 GitHub Stats
 
