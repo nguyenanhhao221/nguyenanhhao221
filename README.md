@@ -20,7 +20,7 @@ I'm 27 years old self taught Front-end developer based in Vietnam 🇻🇳.
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="TailwindCSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NextJS" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg#gh-light-mode-only" />
+<img align="left" alt="NextJS" width="30px" style="padding-right:10px;"  src="./resources/img/nextjs-light.svg#gh-light-mode-only" />
 <img align="left" alt="NextJS" width="30px" style="padding-right:10px;"  src="https://cdn.sanity.io/images/lnyy2568/production/2d6776cd8ccaa53c6e548e03117671e1de4aa510-629x629.png#gh-dark-mode-only" />
 <img align="left" alt="Redux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
@@ -67,4 +67,3 @@ I'm 27 years old self taught Front-end developer based in Vietnam 🇻🇳.
 </a>
 <br />
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-<!-- [![nguyenanhhao221's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nguyenanhhao221&layout=compact&bg_color=30,7cc0e2,ff9fe1&text_color=fff&title_color=fff)](https://github-readme-stats.vercel.app/api/wakatime?username=nguyenanhhao221) -->
