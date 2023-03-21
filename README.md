@@ -5,11 +5,11 @@
 <a href="https://github.com/DenverCoder1/readme-typing-svg" alt="Typing SVG"> <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=20&pause=1000&color=7CC0E2&center=true&vCenter=true&width=435&lines=%3Ch1%3EFront+End+Developer+%3Ch1%2F%3E;%3CCoffeeLover+%2F%3E;%3CBugDestroyer+%2F%3E"/></a>
 </p>
 
-I'm 27 years old self taught Front-end developer based in Vietnam 🇻🇳.
+Hey there! I'm a 27-year-old self-taught Front-end developer hailing from the beautiful country of Vietnam 🇻🇳. When I'm not typing away at my keyboard, you can find me sipping on some coffee and munching on some delicious street food.
 
-- 🔭 I'm currently doing a 365 days commit challenge. Don't you just love when the chart is all green ?
-- 🌱 I love to work in React, Typescript, NextJS and TailwindCSS, creating not just beautiful application but also blazing fast.
-- 👉 Check out my repo for some cool stuff I have been doing. Hit me up if you ever need a chat or have some ideas, I'm always open.
+- 🔭 Currently, I'm embarking on a 365-day commit challenge, which means my GitHub chart is looking greener than a jungle! But let's be real, who doesn't love a green chart?
+- 🌱 I'm all about React, Typescript, NextJS, and TailwindCSS, and I'm always looking for ways to create beautiful and speedy applications. Oh, and did I mention that I'm a proud Neovim user? Yeah, I like to live on the edge.
+- 👉 Check out my repo for some cool stuff I have been doing. Hit me up if you ever need a chat or have some ideas. My DMs are always open, well at least when I'm not stuck in Vim.
 
 ## 🧰 Languages and Tools
 
@@ -30,6 +30,7 @@ I'm 27 years old self taught Front-end developer based in Vietnam 🇻🇳.
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png#gh-dark-mode-only" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="30px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png#gh-light-mode-only" style="padding-right:10px;" />
+<img align="left" alt="Vim" width="30px" style="padding-right:10px;" src="./resources/img/neovim.png" />
 <img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 
 <br />
