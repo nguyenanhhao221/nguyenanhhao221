@@ -5,7 +5,7 @@
 <a href="https://github.com/DenverCoder1/readme-typing-svg" alt="Typing SVG"> <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=20&pause=1000&color=7CC0E2&center=true&vCenter=true&width=435&lines=%3Ch1%3EFull+Stack+Developer+%3Ch1%2F%3E;%3CCoffeeLover+%2F%3E;%3CBugDestroyer+%2F%3E"/></a>
 </p>
 
-Hey there! I'm a 27-year-old self-taught Full-Stack developer hailing from the beautiful country of Vietnam 🇻🇳. When I'm not typing away at my keyboard, you can find me sipping on some coffee and munching on some delicious street food.
+Hey there! I'm a self-taught Full-Stack developer hailing from the beautiful country of Vietnam 🇻🇳. When I'm not typing away at my keyboard, you can find me sipping on some coffee and munching on some delicious street food.
 
 - 🔭 Currently, I'm embarking on a 365-day commit challenge, which means my GitHub chart is looking greener than a jungle! But let's be real, who doesn't love a green chart?
 - 🌱 I'm all about React, Typescript, NextJS, and TailwindCSS, and I'm always looking for ways to create beautiful and speedy applications. Oh, and did I mention that I'm a proud Neovim user? Yeah, I like to live on the edge.
