@@ -15,24 +15,17 @@ Hey there! I'm a self-taught Full-Stack developer hailing from the beautiful cou
 
 <p align="center">
 <br />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="GoLang" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
-<img align="left" alt="TailwindCSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="TailwindCSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
 <img align="left" alt="NextJS" width="30px" style="padding-right:10px;"  src="./resources/img/nextjs-light.svg#gh-light-mode-only" />
 <img align="left" alt="NextJS" width="30px" style="padding-right:10px;"  src="https://cdn.sanity.io/images/lnyy2568/production/2d6776cd8ccaa53c6e548e03117671e1de4aa510-629x629.png#gh-dark-mode-only" />
-<img align="left" alt="Redux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" width="30px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png#gh-dark-mode-only" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="30px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png#gh-light-mode-only" style="padding-right:10px;" />
 <img align="left" alt="Neovim" width="30px" style="padding-right:10px;" src="./resources/img/neovim.png" />
-<img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 
 <br />
 <br />
@@ -62,8 +55,8 @@ Hey there! I'm a self-taught Full-Stack developer hailing from the beautiful cou
 ## 📊 GitHub Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img alt="Hao Nguyen's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nguyenanhhao221&count_private=true&theme=react&text_color=7cc0e2&title_color=7cc0e2&show_icons=true&icon_color=ff9fe1&hide_border=true" alt="Hao Nguyen Git Hub Stats" height="192px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenanhhao221&layout=compact&theme=react&text_color=7cc0e2&title_color=7cc0e2&hide_border=true" height="192px" />
+  <img alt="Hao Nguyen's GitHub Stats" src="https://github-readme-stats-wdme.vercel.app/api?username=nguyenanhhao221&theme=react&text_color=7cc0e2&title_color=7cc0e2&show_icons=true&icon_color=ff9fe1&hide_border=true" alt="Hao Nguyen Git Hub Stats" height="192px" />
+  <img src="https://github-readme-stats-wdme.vercel.app//api/top-langs/?username=nguyenanhhao221&layout=compact&theme=react&text_color=7cc0e2&title_color=7cc0e2&hide_border=true&hide=shell,css,html" height="192px" />
 </a>
 <br />
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
