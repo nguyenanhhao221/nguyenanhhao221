@@ -50,7 +50,7 @@ Hey there! I'm a self-taught Full-Stack developer hailing from the beautiful cou
 
 ## 🔥 Streak stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=nguyenanhhao221&theme=react&hide_border=true&fire=FF8C3E&ring=FF9FE1&stroke=FF9FE1)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.haonguyen.tech?user=nguyenanhhao221&theme=react&hide_border=true&fire=FF8C3E&ring=FF9FE1&stroke=FF9FE1)](https://git.io/streak-stats)
 
 ## 📊 GitHub Stats
 
