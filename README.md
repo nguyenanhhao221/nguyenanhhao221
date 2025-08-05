@@ -39,8 +39,8 @@ Hey there! I'm a self-taught Full-Stack developer hailing from the beautiful cou
 [![website](./resources/img/globe-dark.svg)](https://haonguyen.tech#gh-dark-mode-only)
 &nbsp;&nbsp;
 &nbsp;&nbsp;
-[![website](./resources/img/twitter-light.svg)](https://twitter.com/haonguyen_tech#gh-light-mode-only)
-[![website](./resources/img/twitter-dark.svg)](https://twitter.com/haonguyen_tech#gh-dark-mode-only)
+[![website](./resources/img/twitter-light.svg)](https://x.com/HaoNguyenTech#gh-light-mode-only)
+[![website](./resources/img/twitter-dark.svg)](https://x.com/HaoNguyenTech#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./resources/img/linkedin-light.svg)](https://linkedin.com/in/haonguyen-tech#gh-light-mode-only)
 [![website](./resources/img/linkedin-dark.svg)](https://linkedin.com/in/haonguyen-tech#gh-dark-mode-only)
