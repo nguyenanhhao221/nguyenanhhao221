@@ -55,8 +55,8 @@ Hey there! I'm a self-taught Full-Stack developer hailing from the beautiful cou
 ## 📊 GitHub Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img alt="Hao Nguyen's GitHub Stats" src="https://github-readme-stats-wdme.vercel.app/api?username=nguyenanhhao221&theme=react&text_color=7cc0e2&title_color=7cc0e2&show_icons=true&icon_color=ff9fe1&hide_border=true" alt="Hao Nguyen Git Hub Stats" height="192px" />
-  <img src="https://github-readme-stats-wdme.vercel.app/api/top-langs/?username=nguyenanhhao221&layout=compact&theme=react&text_color=7cc0e2&title_color=7cc0e2&hide_border=true&hide=shell,css,html" height="192px" />
+  <img alt="Hao Nguyen's GitHub Stats" src="https://github-readme-stats.haonguyen.tech/api?username=nguyenanhhao221&theme=react&text_color=7cc0e2&title_color=7cc0e2&show_icons=true&icon_color=ff9fe1&hide_border=true" alt="Hao Nguyen Git Hub Stats" height="192px" />
+  <img src="https://github-readme-stats.haonguyen.tech/api/top-langs/?username=nguyenanhhao221&layout=compact&theme=react&text_color=7cc0e2&title_color=7cc0e2&hide_border=true&hide=shell,css,html" height="192px" />
 </a>
 <br />
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
