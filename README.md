@@ -5,11 +5,13 @@
 <a href="https://github.com/DenverCoder1/readme-typing-svg" alt="Typing SVG"> <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=20&pause=1000&color=7CC0E2&center=true&vCenter=true&width=435&lines=%3Ch1%3EFull+Stack+Developer+%3Ch1%2F%3E;%3CCoffeeLover+%2F%3E;%3CBugDestroyer+%2F%3E"/></a>
 </p>
 
-Hey there! I'm a self-taught Full-Stack developer hailing from the beautiful country of Vietnam 🇻🇳. When I'm not typing away at my keyboard, you can find me sipping on some coffee and munching on some delicious street food.
+👋 Hey, I’m a self-taught software engineer from Vietnam 🇻🇳. I build systems that are fast, reliable, and (hopefully) not too complex.
 
-- 🔭 Currently, I'm embarking on a 365-day commit challenge, which means my GitHub chart is looking greener than a jungle! But let's be real, who doesn't love a green chart?
-- 🌱 I'm all about React, Typescript, NextJS, and TailwindCSS, and I'm always looking for ways to create beautiful and speedy applications. Oh, and did I mention that I'm a proud Neovim user? Yeah, I like to live on the edge.
-- 👉 Check out my repo for some cool stuff I have been doing. Hit me up if you ever need a chat or have some ideas. My DMs are always open, well at least when I'm not stuck in Vim.
+- 🛠 Working across the stack with Python, Go, Rust, and React. FastAPI, PostgreSQL, Redis — the usual suspects.
+- 🚢 I like writing code that ships — clean, tested, and maintainable. Most days you’ll find me in Neovim, hacking away.
+- 📈 On a mission to improve daily. Currently chasing deep understanding over quick wins.
+
+☕ Coffee + street food + late-night debugging = my kind of flow.
 
 ## 🧰 Languages and Tools
 
