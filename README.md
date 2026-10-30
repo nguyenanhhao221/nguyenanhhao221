@@ -52,7 +52,7 @@
 
 ## 🔥 Streak stats
 
-[![GitHub Streak](https://github-readme-streak-stats.haonguyen.tech?user=nguyenanhhao221&theme=react&hide_border=true&fire=FF8C3E&ring=FF9FE1&stroke=FF9FE1)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
 
 ## 📊 GitHub Stats
 
