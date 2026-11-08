@@ -7,7 +7,7 @@
 
 👋 Hey, I’m a self-taught software engineer from Vietnam 🇻🇳. I build systems that are fast, reliable, and (hopefully) not too complex.
 
-- 🛠 Working across the stack with Python, Go, Rust, and React. FastAPI, PostgreSQL, Redis — the usual suspects.
+- 🛠 Working across the stack with Python, Go, and React. FastAPI, PostgreSQL, Redis — the usual suspects.
 - 🚢 I like writing code that ships — clean, tested, and maintainable. Most days you’ll find me in Neovim, hacking away.
 - 📈 On a mission to improve daily. Currently chasing deep understanding over quick wins.
 
